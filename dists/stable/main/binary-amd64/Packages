@@ -1,0 +1,35 @@
+Package: mdemg
+Version: 0.3.3
+Architecture: amd64
+Maintainer: reh3376 <reh3376@users.noreply.github.com>
+Installed-Size: 35489
+Depends: curl, tar
+Recommends: docker.io | docker-ce
+Suggests: jq
+Filename: pool/main/m/mdemg/mdemg_0.3.3_linux_amd64.deb
+Size: 11084956
+MD5sum: 8f9c71e314134652eb1fab2800a79844
+SHA1: a81f07d22a28b2a13d82f15783ca712c756e51d6
+SHA256: 4396c951f5fc2594de695a899f7bd41489aeba63ad1c4241047dc9d989674cce
+Section: devel
+Priority: optional
+Homepage: https://github.com/reh3376/mdemg
+Description: Multi-Dimensional Emergent Memory Graph — cognitive substrate for AI agents
+Architecture-Variant: amd64v1
+License: MIT
+
+Package: mdemg-sidebar
+Version: 0.2.2
+Architecture: amd64
+Maintainer: reh3376
+Installed-Size: 14252
+Depends: libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/m/mdemg-sidebar/mdemg-sidebar_0.2.2_amd64.deb
+Size: 4638708
+MD5sum: b980865e2b0c992e1fb56e4886518fce
+SHA1: ebd52e8dc3ee3b60ee7a6558234a2a05e6fb2c2a
+SHA256: 5c253d2213735a0b4ca4987c541922c048c9ee730f86d31c7d290ea3dfed943a
+Priority: optional
+Description: MDEMG Linux Sidebar
+ Linux system tray companion for MDEMG - Multi-Dimensional Emergent Memory Graph
+

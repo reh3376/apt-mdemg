@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MDEMG
+Label: MDEMG
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: MDEMG APT Repository
+Date: Sat, 21 Mar 2026 16:03:20 +0000
+MD5Sum:
+ e6fbded66d5b54342b94fc0407113c2c     1230 main/binary-amd64/Packages
+ 028c300325772b8a67d17b46b10df148      607 main/binary-arm64/Packages
+ dbee54844162c8017a1c541108096224      704 main/binary-amd64/Packages.gz
+ 49568f8edb6b1307ffedac9b58eab140      460 main/binary-arm64/Packages.gz
+SHA256:
+ 7ca175a78d76200f688a738632d95e7d254f759340bf1ef823792124201453e5     1230 main/binary-amd64/Packages
+ 28d2a37e7e012e2213a2454165fc3753c33ae6826ceb5eff6cd6d54cd386bd26      607 main/binary-arm64/Packages
+ 5bfe0d85458085081b2f3f7f6c7b1bceb68433a762a3df35428ffc1d41a557b1      704 main/binary-amd64/Packages.gz
+ 77952b357efa554e53fe39ebf1021fb94da6e7747093ffdce344d7babde1908d      460 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEuiCv+3+XM9UmjWcPnvUJW9jTD9EFAmm+wUgACgkQnvUJW9jT
+D9EzihAAklGpB7xnLDDmsGQKFveAeTsVJSAT1j40WXE6XH1C70WVU951oOcECNSN
+1YUhGIlr6x0E7W9EUROLKoeV5uWn6SHte5g+JGkREun9DFGvFRH9k+yZAB0OaBWm
+mOBjUWQ+0wqguOeoGYX4SBktBjWF/MKMz9hWshIWHcujQPIfor0PBqqxmorgRlKy
+wD1IudBhTMqvcUaTcaENLoPlAhG69qXLMzFtzy9DzWGlBbqXQmAtrfnNb3cPh4VI
+8tPMIlbTpl0OtWgIosp6LiSxgJ5OJTeTADwKYRnmkQI4DHH5ovkhXD9ebSjPd6Jq
+YzFNpmD47KyuUZRpYSEiyiY7BSo6vmOdBuCsGqI8nhCzs4W7/6K9dPCcoAW6NOtr
+8sglqc/f18bri9EwbvEn/HdCFSG5wtpR6Mmi9qfKx9DnPUHrzdIIgcf1DQ2A5mPW
+nG1wd4yv7jWTHPuXrHqh6tbxHrD2fUVF07DY1IKFKl6pUC0TC6Aj7nElR82NNTD7
+49y47PjXp2kWqcvz7sGh5KewL1j7MBTvfZUAyMs2rn0ccV8U+FJD58YqjRErWpN6
+TpyXlAM0eDOEmmc8xlUq8baaMrLbkYfwwfCgjPuao3x0l73f224yAOnDgoAbXoTp
+XVRM8Yc730ccHuT5dLOcmMO2/ZSK4IbMjRN/o6HyrI6VSOiAJHk=
+=t55c
+-----END PGP SIGNATURE-----

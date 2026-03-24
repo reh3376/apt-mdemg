@@ -1,0 +1,19 @@
+Package: mdemg
+Version: 0.3.4
+Architecture: arm64
+Maintainer: reh3376 <reh3376@users.noreply.github.com>
+Installed-Size: 34438
+Depends: curl, tar
+Recommends: docker.io | docker-ce
+Suggests: jq
+Filename: pool/main/m/mdemg/mdemg_0.3.4_linux_arm64.deb
+Size: 10469502
+MD5sum: b01e245bb27a3f8a24e44d63dd11af14
+SHA1: 1a023d25b3ea1a0a94db03c4c79d3efa485418ee
+SHA256: c9d3fbebe06f35cca595290cc372c4a6d46b810b3d59bdcd31c8d2f0bc32c0bf
+Section: devel
+Priority: optional
+Homepage: https://github.com/reh3376/mdemg
+Description: Multi-Dimensional Emergent Memory Graph — cognitive substrate for AI agents
+License: MIT
+
